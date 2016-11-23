@@ -1,5 +1,5 @@
 # paybox2mysql
-The purpose of this code is to make easy to import into MySQL database of a .csv file generated on https://www.ca-paris.fr website.
+The purpose of this code is to make easy to import into MySQL database of a .csv file received from tpeweb@paybox.com.
 
 ## Code reuse
 This project is inspired from https://github.com/kassine/caparis2mysql
