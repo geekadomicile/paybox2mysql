@@ -9,3 +9,4 @@ This project is inspired from https://github.com/kassine/caparis2mysql
 2. Create a user with all privileges on database created in 1.
 3. Execute ./install.sh
 4. Put your .csv file in download dir.
+5. Change settings in ".env" file
